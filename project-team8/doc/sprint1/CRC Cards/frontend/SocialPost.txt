@@ -1,0 +1,8 @@
+Class name: SocialPost
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Display the details of the social post
+
+Collaborators: None

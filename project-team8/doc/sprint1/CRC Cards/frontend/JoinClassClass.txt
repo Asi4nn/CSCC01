@@ -1,0 +1,13 @@
+Classname: JoinClass (Located in /client/src/view/JoinClass/index.tsx)
+
+Parent Class (if any): None
+
+Subclasses (if any): None
+
+Responsibilities:
+* Front-End: [Story 4] Students can enroll in a classroom
+
+Collaborators:
+* Back-End for JoinClass
+* Store for State
+

@@ -1,0 +1,9 @@
+Class Name: CreateCourseSerializer
+Parent: ModelSerializer from rest_framework.serializers
+Subclasses: N/A
+
+Responsibilities:
+- Encapsulate Course models to easily transfer frontend course creation requests
+
+Collaborators:
+- CreateCourseAPIView

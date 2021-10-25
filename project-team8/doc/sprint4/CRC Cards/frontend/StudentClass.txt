@@ -1,0 +1,8 @@
+Class name: MentorClass
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Show module items within a module (student view, no edit)
+
+Collaborators: Store, ModuleItemViewComponent

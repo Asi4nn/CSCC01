@@ -1,0 +1,10 @@
+Class name: ProfileDetails
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Display user profile
+* Allow logged in user to edit the profile
+
+
+Collaborators: None

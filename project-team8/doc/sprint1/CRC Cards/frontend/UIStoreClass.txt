@@ -1,0 +1,8 @@
+Class name: UIStore
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Stores all UI related logic
+
+Collaborators: None

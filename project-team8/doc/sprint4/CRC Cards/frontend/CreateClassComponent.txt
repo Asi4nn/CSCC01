@@ -1,0 +1,9 @@
+Class name: CreateClassComponent
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Create a class by pressing a button
+
+
+Collaborators: None

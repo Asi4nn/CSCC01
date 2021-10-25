@@ -1,0 +1,9 @@
+Class Name: EnrollInCourseAPIView
+Parent: APIView from rest_framework.views
+Subclasses: N/A
+
+Responsibilities:
+- Adds a student's ID to the course's enrolled list
+
+Collaborators:
+- Course

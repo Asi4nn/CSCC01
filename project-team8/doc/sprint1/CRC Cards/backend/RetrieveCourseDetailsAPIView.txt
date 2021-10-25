@@ -1,0 +1,9 @@
+Class Name: RetrieveCourseDetailsAPIView
+Parent: RetrieveAPIView from rest_framework.generics
+Subclasses: N/A
+
+Responsibilities:
+- Define the API endpoint for getting a course object
+
+Collaborators:
+- CourseSerializer

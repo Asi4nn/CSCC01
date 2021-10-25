@@ -1,0 +1,9 @@
+Class Name: Course
+Parent: Model from django.db
+Subclasses: N/A
+
+Responsibilities:
+- Define the Course object model to store course info
+
+Collaborators:
+- CreateCourseAPIView

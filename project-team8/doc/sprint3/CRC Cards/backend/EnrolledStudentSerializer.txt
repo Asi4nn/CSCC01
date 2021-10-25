@@ -1,0 +1,9 @@
+Class Name: EnrolledStudentSerializer
+Parent: ModelSerializer from rest_framework.serializers
+Subclasses: N/A
+
+Responsibilities:
+- Encapsulate User objects to not give any sensitive information when giving objects to courses
+
+Collaborators:
+- CourseSerializer

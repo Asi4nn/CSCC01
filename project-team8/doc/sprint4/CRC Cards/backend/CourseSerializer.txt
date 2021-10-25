@@ -1,0 +1,10 @@
+Class Name: CourseSerializer
+Parent: ModelSerializer from rest_framework.serializers
+Subclasses: N/A
+
+Responsibilities:
+- Encapsulate Course models to easily transfer between frontend and backend forms
+
+Collaborators:
+- RetrieveCourseDetailsAPIView
+- RetrieveCourseListAPIView

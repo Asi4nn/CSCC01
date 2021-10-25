@@ -1,0 +1,9 @@
+Class name: AuthStore
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Stores all authentication related state
+
+
+Collaborators: None

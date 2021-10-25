@@ -1,0 +1,9 @@
+Class Name: LogoutUserAPIView
+Parent: APIView from rest_framework.views
+Subclasses: N/A
+
+Responsibilities:
+- Define the API endpoint (get) for deleting the auth token to logout a user
+
+Collaborators:
+- User

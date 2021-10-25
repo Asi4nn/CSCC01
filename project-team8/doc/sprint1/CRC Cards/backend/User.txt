@@ -1,0 +1,11 @@
+Class Name: User
+Parent: AbstractUser from django.contrib.auth.models
+Subclasses: N/A
+
+Responsibilities:
+- Define the User object model to store user account info
+
+Collaborators:
+- LogoutUserAPIView
+- CreateUserAPIView
+- UserAccountSerializer

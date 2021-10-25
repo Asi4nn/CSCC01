@@ -1,0 +1,9 @@
+Class Name: CreateUserAPIView
+Parent: CreateAPIView from rest_framework.generics
+Subclasses: N/A
+
+Responsibilities:
+- Define the API endpoint for creating User model objects
+
+Collaborators:
+- UserAccountSerializer

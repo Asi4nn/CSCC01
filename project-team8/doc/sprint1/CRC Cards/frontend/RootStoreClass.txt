@@ -1,0 +1,9 @@
+Class name: RootStoreClass
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Class to handle all application state
+
+
+Collaborators: AuthStore, UIStore

@@ -1,0 +1,8 @@
+Class name: ModuleItemEditComponent
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Show specific module item: assignment or lecture (mentor view, edit)
+
+Collaborators: Store

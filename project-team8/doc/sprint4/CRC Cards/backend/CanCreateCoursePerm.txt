@@ -1,0 +1,10 @@
+  
+Class Name: CanCreateCourse
+Parent: BasePermissions from rest_framework.permissions
+Subclasses: N/A
+
+Responsibilities:
+- Check for the correct permissions to create a course for the user calling the endpoint
+
+Collaborators:
+- User

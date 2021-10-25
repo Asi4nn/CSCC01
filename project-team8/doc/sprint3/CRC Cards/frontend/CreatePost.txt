@@ -1,0 +1,8 @@
+Class name: CreatePost
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Creates a post for the social platform
+
+Collaborators: None

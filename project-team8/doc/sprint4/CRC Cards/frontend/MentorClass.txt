@@ -1,0 +1,8 @@
+Class name: MentorClass
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Show module items within a module (mentor view, edit)
+
+Collaborators: Store, ModuleItemEditComponent

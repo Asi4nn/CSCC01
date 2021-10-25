@@ -1,0 +1,9 @@
+Class Name: Profile
+Parent: Model from django.db
+Subclasses: N/A
+
+Responsibilities:
+- Define the Profile object model to store user profile info
+
+Collaborators:
+-

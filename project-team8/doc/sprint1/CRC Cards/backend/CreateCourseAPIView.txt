@@ -1,0 +1,10 @@
+Class Name: CreateCourseAPIView
+Parent: APIView from rest_framework.views
+Subclasses: N/A
+
+Responsibilities:
+- Define the API endpoint (post) for verifying and creating Course model objects
+
+Collaborators:
+- Course
+- CreateCourseSerializer
